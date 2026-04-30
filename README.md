@@ -63,12 +63,13 @@ A projekt célja egy nagyméretű (500 000+ soros) e-kereskedelmi adathalmaz ele
 
 - A 2011 decemberi adatok hiányosak, amit az időbeli trendek értelmezésekor figyelembe kell venni.
 - Az elemzés során csak az érvényes (Valid = IGEN) tranzakciókat vettem figyelembe.
+- A fájl komplexitása miatt javasolt Microsoft Excelben megnyitni a megosztott Google Drive link tartalmát (a Google Sheets nem minden esetben kezeli megfelelően).
 
 ---
 
 ## 📁 Fájlok
 
-- `Projektmunka_1_UK Dataset Analysis.xlsx` → teljes elemzés és dashboard
+- `[Projektmunka_1_UK Dataset Analysis.xlsx](https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true)` → optimalizált Excel fájl (nyers adatok nélkül)
 - `UK_Dataset_Dashboard_Overview.png`
 - `UK_Dataset_Dashboard_KPIs.png`
 - `UK_Dataset_Dashboard_Charts.png`
@@ -145,12 +146,13 @@ The goal of this project was to analyze a large-scale (500,000+ rows) e-commerce
 
 - December 2011 data is incomplete, which may affect trend interpretation.
 - Only valid transactions (Valid = YES) were included in the analysis.
+- Due to file complexity, it is recommended to open the linked Google Drive file in Microsoft Excel (Google Sheets may not handle it properly).
 
 ---
 
 ## 📁 Files
 
-- `Projektmunka_1_UK Dataset Analysis.xlsx` → full analysis and dashboard
+- `[Projektmunka_1_UK Dataset Analysis.xlsx](https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true)` → optimized Excel file (without raw data)
 - `UK_Dataset_Dashboard_Overview.png`
 - `UK_Dataset_Dashboard_KPIs.png`
 - `UK_Dataset_Dashboard_Charts.png`
