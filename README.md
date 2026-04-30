@@ -51,7 +51,7 @@ A projekt célja egy nagyméretű (500 000+ soros) e-kereskedelmi adathalmaz ele
 ### Teljes dashboard
 ![Overview](UK_Dataset_Dashboard_Overview.png)
 
-### KPI-k és megállapítások
+### KPI-ok és megállapítások
 ![KPI](UK_Dataset_Dashboard_KPIs.png)
 
 ### Grafikonok
