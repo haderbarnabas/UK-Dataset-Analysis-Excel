@@ -69,7 +69,7 @@ A projekt célja egy nagyméretű (500 000+ soros) e-kereskedelmi adathalmaz ele
 
 ## 📁 Fájlok
 
-- `(https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true)` → optimalizált Excel fájl (nyers adatok nélkül)
+- `https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true` → optimalizált Excel fájl (nyers adatok nélkül)
 - `UK_Dataset_Dashboard_Overview.png`
 - `UK_Dataset_Dashboard_KPIs.png`
 - `UK_Dataset_Dashboard_Charts.png`
@@ -152,7 +152,7 @@ The goal of this project was to analyze a large-scale (500,000+ rows) e-commerce
 
 ## 📁 Files
 
-- `(https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true)` → optimized Excel file (without raw data)
+- `https://docs.google.com/spreadsheets/d/17zNd5rKxQfLpTaMaq8NldPceSN7z3yrJ/edit?usp=sharing&ouid=116480712538702926891&rtpof=true&sd=true` → optimized Excel file (without raw data)
 - `UK_Dataset_Dashboard_Overview.png`
 - `UK_Dataset_Dashboard_KPIs.png`
 - `UK_Dataset_Dashboard_Charts.png`
