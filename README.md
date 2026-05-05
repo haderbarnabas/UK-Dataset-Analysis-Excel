@@ -62,7 +62,7 @@ A projekt célja egy nagyméretű (500 000+ soros) e-kereskedelmi adathalmaz ele
 ## ⚠️ Megjegyzések
 
 - A 2011 decemberi adatok hiányosak, amit az időbeli trendek értelmezésekor figyelembe kell venni.
-- Az elemzés során csak az érvényes (Valid = IGEN) tranzakciókat vettem figyelembe.
+- Az elemzés során csak az érvényes tranzakciókat vettem figyelembe.
 - A fájl komplexitása miatt javasolt Microsoft Excelben megnyitni a megosztott Google Drive link tartalmát (a Google Sheets nem minden esetben kezeli megfelelően).
 
 ---
@@ -145,7 +145,7 @@ The goal of this project was to analyze a large-scale (500,000+ rows) e-commerce
 ## ⚠️ Notes
 
 - December 2011 data is incomplete, which may affect trend interpretation.
-- Only valid transactions (Valid = YES) were included in the analysis.
+- Only valid transactions were included in the analysis.
 - Due to file complexity, it is recommended to open the linked Google Drive file in Microsoft Excel (Google Sheets may not handle it properly).
 
 ---
